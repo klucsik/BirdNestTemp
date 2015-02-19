@@ -1,5 +1,5 @@
 /*
-KarvajFészekHő (Bird Nest Temp)
+KarvajFészekHő (SparrowHawk Nest Temp)
 This sketch is for temperature reading and storing in SD card with the resolution of every minute.
 wiring:
 ˚Arduino pro mini board
